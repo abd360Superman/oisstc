@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/oisstc/static/css/main.40e4ae26.css",
+    "main.js": "/oisstc/static/js/main.deda797e.js",
+    "index.html": "/oisstc/index.html",
+    "main.40e4ae26.css.map": "/oisstc/static/css/main.40e4ae26.css.map",
+    "main.deda797e.js.map": "/oisstc/static/js/main.deda797e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40e4ae26.css",
+    "static/js/main.deda797e.js"
+  ]
+}
